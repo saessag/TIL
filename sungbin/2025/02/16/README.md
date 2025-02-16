@@ -14,3 +14,12 @@
 - yield - 양보하기
 - 프린터 예제4 - yield 도입
 - 정리
+
+### 메모리 가시성
+
+- volatile, 메모리 가시성1
+- volatile, 메모리 가시성2
+- volatile, 메모리 가시성3
+- volatile, 메모리 가시성4
+- 자바 메모리 모델(Java Memory Model)
+- 정리
