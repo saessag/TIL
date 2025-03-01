@@ -37,3 +37,12 @@
 - 문자 다루기4 - BufferedReader
 - 기타 스트림
 - 정리
+
+## I/O 활용
+
+- 회원 관리 예제1 - 메모리
+- 회원 관리 예제2 - 파일에 보관
+- 회원 관리 예제3 - DataStream
+- 회원 관리 예제4 - ObjectStream
+- XML, JSON, 데이터베이스
+- 정리
