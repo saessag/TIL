@@ -43,3 +43,13 @@
 - 라이브러리 살펴보기
 - View 환경설정
 - 빌드하고 실행하기
+
+## 스프링 시큐리티 완전 정복
+
+### 초기화 과정 이해
+
+- 프로젝트 생성 / 의존성 추가
+- SecurityBuilder / SecurityConfigurer
+- WebSecurity / HttpSecurity
+- DelegatingFilterProxy / FilterChainProxy
+- 사용자 정의 보안 설정하기
