@@ -53,3 +53,9 @@
 - WebSecurity / HttpSecurity
 - DelegatingFilterProxy / FilterChainProxy
 - 사용자 정의 보안 설정하기
+
+## 스프링 배치
+
+### 스프링 배치 소개
+
+- 개요 및 아키텍쳐
