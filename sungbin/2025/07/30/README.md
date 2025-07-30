@@ -50,3 +50,11 @@
 
 - 프로젝트 소개
 - 왜 게시판인가?
+
+#### 기술 스택 소개
+
+- Kotlin vs Java
+- Kotest vs Junit
+- Swagger vs RestDocs
+- ktlint
+- 브랜치 전략(Git Flow)
